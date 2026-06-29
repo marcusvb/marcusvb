@@ -1,4 +1,4 @@
-### Hey <img src="https://emojis.slackmojis.com/emojis/images/1643514508/4976/perfect.gif" width="25"/>
+### Hey <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wave-gif.gif" width="25"/>
 
 I'm [**Marcus**](https://vanbergen.it) - an Engineering Manager based in Amsterdam. I work primarily on backend systems. I hold both a bachelor's degree in Computer Science and a master's degree in Computational Science from the [**University of Amsterdam**](https://www.uva.nl/shared-content/programmas/en/masters/computational-science/computational-science.html).
 
